@@ -31,3 +31,7 @@ For algorithm 1, the compiler will also need to be told to link the binary to th
 ## Command line parameters
 
 Both algorithms are run from the command line and each takes a number of command line parameters. A brief description of these parameters can be found by running the code with command line parameter "-help". 
+
+## More details
+
+Considerably more information about the algorithms and there implementation can be found in [docs/algorithm.pdf](docs/algorithm.pdf). (This also serves as the 'addition information' referred to by the paper.)
