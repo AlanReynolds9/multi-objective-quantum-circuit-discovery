@@ -34,4 +34,4 @@ Both algorithms are run from the command line and each takes a number of command
 
 ## More details
 
-Considerably more information about the algorithms and there implementation can be found in [docs/algorithm.pdf](docs/algorithm.pdf). (This also serves as the 'addition information' referred to by the paper.)
+Considerably more information about the algorithms and their implementation can be found in [docs/algorithm.pdf](docs/algorithm.pdf). This also serves as the 'additional information' referred to by the paper.
